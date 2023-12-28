@@ -8,7 +8,7 @@ Scanear los puertos abiertos con nmap
 ```bash
 nmap -sV -A 10.10.11.239
 ```
-![[Pasted image ./recursos/20231227160801.png]]
+![[Pasted image 20231227160801.png]]
 
 hacerle una auditoria a la pagina
 ![[Pasted image 20231227160125.png]]
